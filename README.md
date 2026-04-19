@@ -70,20 +70,6 @@ Techniques used:
 * Responsive UI with no blocking between sensor reads and playback
 * Stable volume adaptation under changing room noise
 
-## Resume Highlights
-
-* Built a dual-core FreeRTOS embedded system with concurrent peripherals
-* Implemented queues, mutexes, and shared-state synchronization
-* Designed adaptive control logic for real-time user experience
-
-## Future Improvements
-
-* Bluetooth audio streaming
-* Mobile companion app
-* SD card music library
-* OLED spectrum visualizer
-* Voice assistant integration
-
 ## How to Run
 
 1. Connect all peripherals to ESP32-S3 pins.
